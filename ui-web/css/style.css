@@ -1,0 +1,22 @@
+:root{
+    /* ligth styles */
+    --light-background: #c8ee71;
+
+    /* Dark styles */
+    --dark-background: #133a26;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.light-mode{
+    background-color: var(--light-background);
+}
+
+.dark-mode{
+    background-color: var(--dark-background);
+}
