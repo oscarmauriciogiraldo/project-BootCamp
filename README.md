@@ -1,4 +1,4 @@
-#**Proyecto Final de Programación nivel Explorador**
+# **Proyecto Final de Programación nivel Explorador**
 
 ## Introducción 
 
