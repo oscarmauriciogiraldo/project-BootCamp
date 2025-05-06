@@ -14,6 +14,12 @@ Este proyecto se enfocará en las siguientes lineas:
 
 # Objetivos: 
 
+## Obgetivo General
+
+
+
+## Objetivos espesificos
+
 - Ofrecer una visión comprensiva y práctica que respalde la transición hacia un futuro energético más sostenible y justo mediante un aplicativo web que exhiba características de usabilidad.
 
 - Ofrecer una visión comprensiva y práctica de que es el emprendimiento y datos acerca de esta actividad, con el fin de conocer y generar iniciativas de emprendimiento en la población mediante un aplicativo web con una mirada local.
