@@ -24,7 +24,11 @@ Este proyecto se enfocará en las siguientes lineas:
 
 - Ofrecer una visión comprensiva y práctica de que es el emprendimiento y datos acerca de esta actividad, con el fin de conocer y generar iniciativas de emprendimiento en la población mediante un aplicativo web con una mirada local.
 
-## Descripción del proyecto: 
+    - Consultoria: 
+
+## Descripción del proyecto:
+
+Este proyecto se centra en un amplio conjunto de datos globales sobre energía renovable que cubre el periodo de 1965 a 2022. Los datos incluyen detalles sobre la producción de energía hidroeléctrica, eólica, solar, de biocombustibles y geotérmica en todo el mundo.
 
 "Partiendo de lo que dijo sebas y algo que escuche, como el proyecto va enfocado al análisis de datos, aparte de identificar donde se usan estas energías renovables, sino también los lugares mas afectados por usar energías no renovables, en cuanto a contaminación. (aquí se podría decir una funcionalidad adicional, seria como un app aparte donde según el lugar, por ejemplo una playa, por el no uso de energías renovables y el mal cuidado del medio ambiente, como se vería esta a futuro), aquí entonces se vería el análisis de datos de la contaminación y como el cambio, podría mejor esos datos en cuanto a contaminación, y se recomendarían proyectos de energías renovables para esta zona"
 
