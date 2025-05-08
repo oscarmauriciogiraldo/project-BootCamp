@@ -4,7 +4,7 @@
 
 En la era digital actual, la capacidad de programar se ha convertido en una habilidad fundamental tanto para el desarrollo personal como para el progreso económico y social de un país. En Colombia, la implementación de un programa de formación en programación básica se justifica por varios motivos cruciales como la democratización del conocimiento tecnológico, el fomento del pensamiento computacional, la preparación para el futuro del trabajo, estímulo de innovación, entre otros. Con este proyecto se busca que los campistas aprendan a programar apoyando el progreso del país
 
-## Enfoques y lineas de Investigación :
+## Enfoques y linea de investigacion :
 
 Este proyecto se enfocará en las siguientes lineas:
 
@@ -12,23 +12,21 @@ Este proyecto se enfocará en las siguientes lineas:
 
 - Ciencia, tecnología e innovación para la transformación productiva y la resolución de desafíos sociales, económicos y ambientales del país; y la construcción de una sociedad del conocimiento.
 
-# Objetivos: 
-
-## Obgetivo General
-
-
-
-## Objetivos espesificos
+## Objetivo: 
 
 - Ofrecer una visión comprensiva y práctica que respalde la transición hacia un futuro energético más sostenible y justo mediante un aplicativo web que exhiba características de usabilidad.
 
-- Ofrecer una visión comprensiva y práctica de que es el emprendimiento y datos acerca de esta actividad, con el fin de conocer y generar iniciativas de emprendimiento en la población mediante un aplicativo web con una mirada local.
-
-    - Consultoria: 
+ 
 
 ## Descripción del proyecto:
 
 Este proyecto se centra en un amplio conjunto de datos globales sobre energía renovable que cubre el periodo de 1965 a 2022. Los datos incluyen detalles sobre la producción de energía hidroeléctrica, eólica, solar, de biocombustibles y geotérmica en todo el mundo.
+
+## Requerimientos 
+
+Crear una página de información sobre fuentes de energía limpia que se encuentre registrada en el conjunto de datos (por ejemplo, energía solar) estilizada con HTML o mediante un framework como, Angular, React o vueJs para hacerla visualmente atractiva, dinamica, interactiva y accesible.
+
+### Requerimientos funcionales
 
 "Partiendo de lo que dijo sebas y algo que escuche, como el proyecto va enfocado al análisis de datos, aparte de identificar donde se usan estas energías renovables, sino también los lugares mas afectados por usar energías no renovables, en cuanto a contaminación. (aquí se podría decir una funcionalidad adicional, seria como un app aparte donde según el lugar, por ejemplo una playa, por el no uso de energías renovables y el mal cuidado del medio ambiente, como se vería esta a futuro), aquí entonces se vería el análisis de datos de la contaminación y como el cambio, podría mejor esos datos en cuanto a contaminación, y se recomendarían proyectos de energías renovables para esta zona"
 
