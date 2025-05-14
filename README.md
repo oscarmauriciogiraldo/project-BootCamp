@@ -27,21 +27,19 @@ Este proyecto se centra en un amplio conjunto de datos globales sobre energía r
 
 - Se debe contar con información de interés, como conceptos, definiciones y enlaces que le permitan al lector entender el tema y contextualizarse. Para esto debe diseñarse claramente las páginas y organización de los contenidos.
 
-Es importante destacar la red de organizaciones y sitios que apoyan este tipo de iniciativas y colocar el enlace a sus páginas para que sirvan de apoyo a las personas que van a visitar tu sitio.
-
-Esta página debe servir de punto de información para las personas que desean emprender o innovar, encontrando información, noticias y enlaces de interés.
-
-### Requerimientos funcionales
+- Es importante destacar la red de organizaciones y sitios que apoyan este tipo de iniciativas y colocar el enlace a sus páginas para que sirvan de apoyo a las personas que van a visitar tu sitio.
 
 - Esta página debe servir de punto de información para las personas que desean emprender o innovar, encontrando información, noticias y enlaces de interés.
 
-3
+### Requerimientos funcionales
 
-Se deberá contar con la opción de cargar y visualizar de manera tabular todo el conjunto de datos históricos que se encontraron en los sitios de DATA, bien sea datos abiertos o información de analítica. Se recomienda tener una venta de tiempo para filtrar los datos, Se recomienda tener datos actualizados, por ejemplo de los últimos 20 años y poder filtrarlos por Tipo de actividad o de negocio o año. Esto entregará un dashboard de información importante para motivar el espíritu emprendedor e innovador del visitante de la página y lo animará a desarrollar la siguiente encuesta.
+- Esta página debe servir de punto de información para las personas que desean emprender o innovar, encontrando información, noticias y enlaces de interés. 
+
+- Se deberá contar con la opción de cargar y visualizar de manera tabular todo el conjunto de datos históricos que se encontraron en los sitios de DATA, bien sea datos abiertos o información de analítica. Se recomienda tener una venta de tiempo para filtrar los datos, Se recomienda tener datos actualizados, por ejemplo de los últimos 20 años y poder filtrarlos por Tipo de actividad o de negocio o año. Esto entregará un dashboard de información importante para motivar el espíritu emprendedor e innovador del visitante de la página y lo animará a desarrollar la siguiente encuesta.
 
 - La página web deberá tener un formulario para la estimación de emprendimiento por cantidad de personas o por tipo de emprendimiento
 
-Igualmente, poder tener un cálculo del nivel capacidad de innovación o emprendimiento que tienes. Para conseguirlo el usuario deberá realizar la elección de opciones (solo dar click, no se ingresará información) de responder algunas preguntas, cada una de las cuales tendrá un peso sobre el total y se debe implementar la fórmula que arrojará el resultado de la capacidad de emprendimiento o innovación que tienes.
+- Igualmente, poder tener un cálculo del nivel capacidad de innovación o emprendimiento que tienes. Para conseguirlo el usuario deberá realizar la elección de opciones (solo dar click, no se ingresará información) de responder algunas preguntas, cada una de las cuales tendrá un peso sobre el total y se debe implementar la fórmula que arrojará el resultado de la capacidad de emprendimiento o innovación que tienes.
 
 # Frontend 
 
